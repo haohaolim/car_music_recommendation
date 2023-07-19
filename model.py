@@ -4,7 +4,7 @@
 # In[1]:
 
 
-pip install --upgrade pip
+#pip install --upgrade pip
 
 
 # In[2]:
